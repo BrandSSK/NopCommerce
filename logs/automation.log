@@ -1,0 +1,9 @@
+[INFO ] 2021-03-19 22:23:26.029 [main] TC_LoginTest_001 - **************** Starting TC_LoginTest_001 ************* 
+[INFO ] 2021-03-19 22:23:32.091 [main] TC_LoginTest_001 - **************** Providing login details ************* 
+[INFO ] 2021-03-19 22:23:39.978 [main] TC_LoginTest_001 - **************** Login test is passed ************* 
+[INFO ] 2021-03-19 22:34:21.437 [TestNG-tests-1] TC_LoginTest_001 - **************** Starting TC_LoginTest_001 ************* 
+[INFO ] 2021-03-19 22:34:26.775 [TestNG-tests-1] TC_LoginTest_001 - **************** Providing login details ************* 
+[INFO ] 2021-03-19 22:34:34.914 [TestNG-tests-1] TC_LoginTest_001 - **************** Login test is passed ************* 
+[INFO ] 2021-03-19 22:34:38.006 [TestNG-tests-2] TC_LoginTest_001 - **************** Starting TC_LoginTest_001 ************* 
+[INFO ] 2021-03-19 22:34:43.532 [TestNG-tests-2] TC_LoginTest_001 - **************** Providing login details ************* 
+[INFO ] 2021-03-19 22:34:56.920 [TestNG-tests-2] TC_LoginTest_001 - **************** Login test is passed ************* 
